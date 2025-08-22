@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Controle Financeiro",
+    "slug": "finance-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1e40af"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.financeapp.controle",
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9cfa30e1-9747-40bb-b16e-8f6f5dc42eeb"
+      }
+    }
+  }
+}
