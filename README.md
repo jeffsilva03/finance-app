@@ -42,7 +42,7 @@ Para desenvolvimento mobile:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/finance-app.git
+git clone https://github.com/jeffsilva03/finance-app.git
 cd finance-app
 ```
 
@@ -157,38 +157,12 @@ eas build:configure
 eas build --platform all
 ```
 
-## 🤝 Como contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'feat: Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-### Padrões de código
-- Use ESLint para linting
-- Siga os padrões do Conventional Commits
-- Mantenha componentes pequenos e reutilizáveis
-- Documente funções complexas
-
-## 📝 Roadmap
-
-- [ ] Sincronização com a nuvem
-- [ ] Relatórios gráficos avançados
-- [ ] Backup automático
-- [ ] Notificações de lembretes
-- [ ] Modo escuro
-- [ ] Suporte a múltiplas moedas
-- [ ] Exportação de dados (PDF/Excel)
-- [ ] Metas financeiras
-- [ ] Categorias personalizáveis
-
 
 ## 👨‍💻 Autor
 
 **Jefferson Silva**
 - GitHub: @jeffsilva03 (https://github.com/jeffsilva03)
-- LinkedIn: Jefferson Silva([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jefferson-silva-355620323/))
+- LinkedIn: Jefferson Silva([https://www.linkedin.com/in/jefferson-silva-355620323/](https://www.linkedin.com/in/jefferson-silva-355620323/))
 - Email: contato@jeffcode.com.br
 
 
